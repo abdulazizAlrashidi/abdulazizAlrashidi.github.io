@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://abdulazizalrashidi.github.io/</loc>
     <lastmod>2022-09-19T08:17:54-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://abdulazizalrashidi.github.io/projects/</loc>
     <lastmod>2022-09-19T08:17:54-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://abdulazizalrashidi.github.io/about/</loc>
     <lastmod>2022-09-19T08:15:55-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/first_post/</loc>
+    <loc>https://abdulazizalrashidi.github.io/posts/first_post/</loc>
     <lastmod>2022-09-17T22:43:24-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://abdulazizalrashidi.github.io/posts/</loc>
     <lastmod>2022-09-17T22:43:24-04:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://abdulazizalrashidi.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://abdulazizalrashidi.github.io/tags/</loc>
   </url>
 </urlset>

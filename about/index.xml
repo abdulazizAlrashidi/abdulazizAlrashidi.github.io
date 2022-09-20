@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Abdulaziz Alrashidi</title>
-    <link>https://example.com/about/</link>
+    <link>https://abdulazizalrashidi.github.io/about/</link>
     <description>Recent content in About Me on Abdulaziz Alrashidi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Sep 2022 08:15:55 -0400</lastBuildDate><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2022 08:15:55 -0400</lastBuildDate><atom:link href="https://abdulazizalrashidi.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
