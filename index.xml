@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdulaziz Alrashidi</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Abdulaziz Alrashidi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Sep 2022 08:17:54 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://example.com/posts/first_post/</link>
+      <pubDate>Sat, 17 Sep 2022 22:43:24 -0400</pubDate>
+      
+      <guid>https://example.com/posts/first_post/</guid>
+      <description>this is my first post this is content
+int main() { return 0; } </description>
+    </item>
+    
+  </channel>
+</rss>
