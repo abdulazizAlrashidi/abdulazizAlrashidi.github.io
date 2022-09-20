@@ -1,1 +1,0 @@
-# abdulazizAlrashidi.github.io
