@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abdulaziz Alrashidi</title>
-    <link>https://abdulazizalrashidi.github.io/</link>
-    <description>Recent content on Abdulaziz Alrashidi</description>
+    <title>Posts on Abdulaziz Alrashidi</title>
+    <link>https://abdulazizalrashidi.github.io/posts/</link>
+    <description>Recent content in Posts on Abdulaziz Alrashidi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Sep 2022 07:02:47 -0400</lastBuildDate><atom:link href="https://abdulazizalrashidi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 07:02:47 -0400</lastBuildDate><atom:link href="https://abdulazizalrashidi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Is Information and How Is It Quantified?</title>
       <link>https://abdulazizalrashidi.github.io/posts/what-is-information-and-how-is-it-quantified/</link>
