@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>systems on Abdulaziz Alrashidi</title>
-    <link>https://abdulazizalrashidi.github.io/tags/systems/</link>
+    <link>https://www.azizcs.com/tags/systems/</link>
     <description>Recent content in systems on Abdulaziz Alrashidi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Sep 2022 07:02:47 -0400</lastBuildDate><atom:link href="https://abdulazizalrashidi.github.io/tags/systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 07:02:47 -0400</lastBuildDate><atom:link href="https://www.azizcs.com/tags/systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What Is Information and How Is It Quantified?</title>
-      <link>https://abdulazizalrashidi.github.io/posts/what-is-information-and-how-is-it-quantified/</link>
+      <link>https://www.azizcs.com/posts/what-is-information-and-how-is-it-quantified/</link>
       <pubDate>Tue, 20 Sep 2022 07:02:47 -0400</pubDate>
       
-      <guid>https://abdulazizalrashidi.github.io/posts/what-is-information-and-how-is-it-quantified/</guid>
+      <guid>https://www.azizcs.com/posts/what-is-information-and-how-is-it-quantified/</guid>
       <description>Introduction The word information has multiple usages and definitions. In daily life, information is just facts or details about somebody or something. However, in this article, we will learn about digital information or data. In particular, we will go through what digital information is and how it is quantified.
 What Is Information? From computer science and engineering perspective, information is data communicated or received that resolves uncertainty about a particular fact or circumstance.</description>
     </item>
