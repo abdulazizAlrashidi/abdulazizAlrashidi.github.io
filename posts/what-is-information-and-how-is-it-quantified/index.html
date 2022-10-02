@@ -183,11 +183,11 @@
 <li><strong>The number is odd</strong> - This data narrows down the number of possibilities to $3$: $1, 3, 5$. This resolves significant amount of uncertainty. But there is still considerable uncertainty.</li>
 <li><strong>The number is $5$</strong> - This leaves us with only $1$ possible number: $5$. No uncertainty here.</li>
 </ul>
-<p>As we can see, according to our definition of information, the first one gives the least amount of information and the last one gives the most amount of information. We will prove this mathematically later in this article after we learn the units used to represent information in computers in the next section.</p>
+<p>As we can see, according to our definition of information, the first one gives the least amount of information and the last one gives the greatest amount of information. We will prove this mathematically later in this article after we learn the units used to represent information in computers in the next section.</p>
 <h2 id="bits-bytes-and-nibbles">Bits, Bytes, and Nibbles</h2>
-<p>In computers, a <em>bit</em> is the smallest unit used to represent information. It represents one of the $2^1 = 2$ possibilities: $0$ or $1$. A group of eight bits is called a <em>byte</em>. It represents one of the $2^8 = 256$ possiblities. A group of four bits is called a <em>nibble</em> and it represents one of the $2^4 = 16$ possiblities. A nibble is no longer a commonly used unit but the term is cute.</p>
+<p>In computers, a <em>bit</em> is the smallest unit used to represent information. It represents one of the $2^1 = 2$ possibilities: $0$ or $1$. A group of eight bits is called a <em>byte</em>. It represents one of the $2^8 = 256$ possiblities. A group of four bits is called a <em>nibble</em> and it represents one of the $2^4 = 16$ possiblities. The nibble is no longer a commonly used unit but the term is cute.</p>
 <h2 id="quantifying-information">Quantifying Information</h2>
-<p>In 1948, a mathematician, Claude Shannon, developed a formula to quantify information in bits. As we defined, information reduces uncertainty by narrowing down possible choices. The formula developed by Shannon ca be written as the following function: $$I(N, M) = \log_2 (\frac{N}{M})$$ where $N$ is the initial number of possible choices and $M$ is the narrowed down number of choices.</p>
+<p>In 1948, a mathematician, Claude Shannon, developed a formula to quantify information in bits. As we defined, information reduces uncertainty by narrowing down possible choices. The formula developed by Shannon can be written as the following function: $$I(N, M) = \log_2 (\frac{N}{M})$$ where $N$ is the initial number of possible choices and $M$ is the narrowed down number of choices.</p>
 <p>In our dice example we had three pieces of data. Let us apply the formula for each of these data and see whether our choices agree with the formula:</p>
 <ol>
 <li><strong>The number is not $2$</strong> - $N = 6, M = 5$</li>
@@ -201,7 +201,7 @@
 <li><strong>The number is 5</strong> - $N = 6, M = 1$</li>
 </ol>
 <p>$I(N, M) = I(6, 5) = \log_2 (\frac{6}{1}) = 2.585$ bits of information</p>
-<p>As we can see, example one gives only 0.263 bits of information which is the least amount information. Comparatively, example three gives 2.585 bits of information which is the most amount of bits.</p>
+<p>As we can see, example one gives only 0.263 bits of information which is the least amount information. Comparatively, example three gives 2.585 bits of information which is the highest amount of bits.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>The term <em>information</em> has many meanings. In the world of computers, information is defined as the data communicated or recieved that resolves uncertainty about a particular fact or circumstance. More information means less uncertainty, and less information means more uncertainty. The definition can be demonstrated by rolling a die and introducing pieces of data about the number produced, and then we can compare these data and see which one has most or least amount of information. Data is stored in units called <em>bytes</em> which consists of eight <em>bits</em>. A <em>nibble</em> consists of four bits and is not commonly used. Information can be quantified using the formula or function developed by Shannon, $I(N, M) = \log_2 (\frac{N}{M})$, where $N$ is the initial number of possible choices and $M$ is the narrowed down number of choices.</p>
 
